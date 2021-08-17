@@ -1,0 +1,43 @@
+/*
+*	author:		mkbaloch
+*	datetime:	2021-08-18 05:37:37
+*/
+
+#include<bits/stdc++.h>
+#define all(x) x.begin(), x.end()
+#define deb(x) cerr << "[" << #x << ": " << x << "]" << endl;
+
+using namespace std;
+
+typedef long long ll;
+
+int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    #ifdef LOCAL
+        auto start = chrono::high_resolution_clock::now();
+        freopen("inputf.txt", "r", stdin);
+        freopen("outputf.txt", "w", stdout);
+    #endif
+
+    //-------Start-------//
+    int n;
+    cin >> n;
+    ll max_sum=INT_MIN, current_sum=INT_MIN;
+    for(int i=0; i<n; i++){
+        ll num;
+        cin >> num;
+        current_sum = max(num, current_sum + num);
+        max_sum = max(max_sum, current_sum);
+    }
+    cout << max_sum;
+    //-------End---------//
+
+    #ifdef LOCAL
+        auto end = chrono::high_resolution_clock::now();
+        auto dur = chrono::duration_cast<chrono::microseconds>(end - start);
+        fprintf(stderr, "Execution time: %.6Lf seconds.\n", ((long double)dur.count() / 1e6)); 
+    #endif
+
+    return 0;
+}

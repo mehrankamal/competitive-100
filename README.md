@@ -13,6 +13,9 @@ This repository will contain all the codes written for various competitive progr
 7. [Stick Lengths](https://cses.fi/problemset/task/1074): solution [here](/stick-lengths.cpp), category: ```sorting```, ```searching```
 8. [Number Spiral](https://cses.fi/problemset/task/1071): solution [here](/number-spiral.cpp), category: ```implementation```, ```ad-hoc```
 9. [Missing Coin Sum](https://cses.fi/problemset/task/2183): solution [here](/missing-coin-sum.cpp), category: ```sorting```, ```searching```
+10. [Building Roads](https://cses.fi/problemset/task/1666): solution [here](/building-roads.cpp), category: ```graphs```, ```bfs```, ```dfs```
+11. [Message Route](https://cses.fi/problemset/task/1667): solution [here](/message-route.cpp), category: ```graphs```, ```bfs```, ```dfs```
+10. [Building Teams](https://cses.fi/problemset/task/1668): solution [here](/building-teams.cpp), category: ```graphs```, ```bfs```, ```dfs```
 
 ## Compilation and Running Instructions:
 

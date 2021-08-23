@@ -16,6 +16,11 @@ This repository will contain all the codes written for various competitive progr
 10. [Building Roads](https://cses.fi/problemset/task/1666): solution [here](/building-roads.cpp), category: ```graphs```, ```bfs```, ```dfs```
 11. [Message Route](https://cses.fi/problemset/task/1667): solution [here](/message-route.cpp), category: ```graphs```, ```bfs```, ```dfs```
 10. [Building Teams](https://cses.fi/problemset/task/1668): solution [here](/building-teams.cpp), category: ```graphs```, ```bfs```, ```dfs```
+11. [Collecting Numbers](https://cses.fi/problemset/task/2216): solution [here](/collecting-numbers.cpp), category: ```sorting```, ```searching```
+12. [Collecting Numbers 2](https://cses.fi/problemset/task/2217): solution [here](/collecting-numbers-2.cpp), category: ```sorting```, ```searching```
+13. [Playlist](https://cses.fi/problemset/task/1141): solution [here](/playlist.cpp), category: ```sorting```, ```searching```
+14. [Towers](https://cses.fi/problemset/task/1073): solution [here](/towers.cpp), category: ```sorting```, ```searching```
+15. [Traffic Lights](https://cses.fi/problemset/task/1163): solution [here](/traffic-lights.cpp), category: ```sorting```, ```searching```
 
 ## Compilation and Running Instructions:
 

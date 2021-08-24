@@ -21,6 +21,9 @@ This repository will contain all the codes written for various competitive progr
 13. [Playlist](https://cses.fi/problemset/task/1141): solution [here](/playlist.cpp), category: ```sorting```, ```searching```
 14. [Towers](https://cses.fi/problemset/task/1073): solution [here](/towers.cpp), category: ```sorting```, ```searching```
 15. [Traffic Lights](https://cses.fi/problemset/task/1163): solution [here](/traffic-lights.cpp), category: ```sorting```, ```searching```
+16. [Array Description](https://cses.fi/problemset/task/1746): solution [here](/array-description.cpp), category: ```dp```
+17. [Counting Towers](https://cses.fi/problemset/task/2413): solution [here](/counting-towers.cpp), category: ```dp```
+18. [Edit Distance](https://cses.fi/problemset/task/1639): solution [here](/edit-distance.cpp), category: ```dp```
 
 ## Compilation and Running Instructions:
 

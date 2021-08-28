@@ -25,6 +25,7 @@ This repository will contain all the codes written for various competitive progr
 17. [Counting Towers](https://cses.fi/problemset/task/2413): solution [here](/counting-towers.cpp), category: `dp`
 18. [Edit Distance](https://cses.fi/problemset/task/1639): solution [here](/edit-distance.cpp), category: `dp`
 19. [Round Trip](https://cses.fi/problemset/task/1669/): solution [here](/round-trip.cpp), category: `graphs`, `dfs and similar` 
+20. [Monsters](https://cses.fi/problemset/task/1194): solution [here](/monsters.cpp), category: `graphs`, `bfs and similar`, `multi-source`, `flows`
 
 
 ## Problems [Miscellaneous]:

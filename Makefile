@@ -1,5 +1,5 @@
 CC = g++
-CPPFLAGS = -DLOCAL -Wall -Werror -Wextra --std=c++14 -O2
+CPPFLAGS = -DLOCAL --std=c++17 -Werror -Wall
 FILE = $(filter-out $@, $(MAKECMDGOALS))
 
 main: $(FILE)

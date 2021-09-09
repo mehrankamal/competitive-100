@@ -28,7 +28,8 @@ This repository will contain all the codes written for various competitive progr
 20. [Monsters](https://cses.fi/problemset/task/1194): solution [here](/monsters.cpp), category: `graphs`, `bfs and similar`, `multi-source`, `flows`
 21. [Shortest Routes 1](https://cses.fi/problemset/task/1671): solution [here](/shortest-route-1.cpp), category: `graphs`, `shortest paths`
 22. [Shortest Routes 2](https://cses.fi/problemset/task/1672): solution [here](/shortest-route-2.cpp), category: `graphs`, `shortest paths`
-
+23. [Rectangle Cutting](https://cses.fi/problemset/task/1744): solution [here](/rectangle-cutting.cpp), category: `dp`, `rod-cutting`
+24. [Money Sums](https://cses.fi/problemset/task/1745): solution [here](/money-sums.cpp), category: `dp`, `knapsack`
 
 
 ## Problems [Miscellaneous]:
